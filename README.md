@@ -1,4 +1,5 @@
-#HEALTH INSURANCE COST PREDICTION
+##HEALTH INSURANCE COST PREDICTION
+
 ##PRPJECT OVERVIEW
 
 This project develops and deploys a machine learning model to predict individual medical insurance charges based on demographic and health realted factors. The objective is to support premium pricing, financial risk assessment and healthcare cost forecasting data-driven modelling.
